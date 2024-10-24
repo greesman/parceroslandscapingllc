@@ -5,8 +5,6 @@ weight: 1
 ---
 
 
-# Lawn Installation
-
 We can lay sod or sow grass seed for your business.
 
 ![Accounting Services](/images/StockCake-FreshDewyGrass.jpg)

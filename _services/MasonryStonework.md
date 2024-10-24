@@ -4,9 +4,7 @@ date: 2024-05-20T13:31:46+10:00
 weight: 1
 ---
 
-# Masonry & Stonework
-
-We can build the following for your home or business:
+# We can build the following for your home or business:
 
 - Stone Walls
 - Stairs
