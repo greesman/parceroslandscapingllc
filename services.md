@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Services
 
-We provide quality landscaping services to businesses and residences in the Kansas City area.
+<span style="font-size:1.85em;color:white">We provide quality landscaping services to businesses and residences in the Kansas City area. These services include: </span>
