@@ -14,5 +14,3 @@ weight: 1
 - Insect & Weed Control
 - Lawn Detailing & Trimming
 - Other Services by Request 
-
-![Accounting Services](/images/StockCake-FreshDewyGrass.jpg)
