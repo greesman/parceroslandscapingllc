@@ -8,4 +8,4 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-Click on our previous projects (below) to see before and after photos of the project and customer testimonials.
+# Click on our previous projects (below) to see before and after photos of the project and customer testimonials.
