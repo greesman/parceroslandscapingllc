@@ -13,5 +13,11 @@
       "name": "Instagram",
       "link": "https://www.instagram.com/parceros.landscaping.llc/",
       "image": "images/social/instagram.svg"
-  }
+  },
+    {
+        "name": "Google",
+        "link": "https://ratemy.pro/Parceros",
+        "image": "images/social/google.svg"
+    }
+
 ]
