@@ -3,5 +3,15 @@
       "name": "Email",
       "link": "mailto:lawncare@parceroslandscapingllc.com ",
       "image": "images/social/email.svg"
+  },
+  {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/share/1CJNdKSEhh/",
+        "image": "images/social/facebook.svg"
+    },
+  {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/parceros.landscaping.llc/",
+      "image": "images/social/instagram.svg"
   }
 ]
